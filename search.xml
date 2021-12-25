@@ -8,7 +8,7 @@
       <link href="/2021/12/25/The%20Missing%20Semester%20of%20Your%20CS%20Education_1_Shell/"/>
       <url>/2021/12/25/The%20Missing%20Semester%20of%20Your%20CS%20Education_1_Shell/</url>
       
-        <content type="html"><![CDATA[<h1 id="The-Shell"><a href="#The-Shell" class="headerlink" title="The Shell"></a>The Shell</h1><p>回归本源</p><p>在研究生的生活中，我通过编写bat和py文件来让机器执行重复的过程，这个shell就是类似之前bat和py的东西。在这节课程中，我们将会学习如何使用bash。bash是被广泛使用的shell，在终端内，使用bash来控制我们的计算机。</p><p>课程是有自己网页的，在这里我就不再把内容搬过来了，大家直接点击下方链接去看就可以，我主要是在这里把自己实现的课后习题展示出来。<br>课程的链接：<a href="https://missing-semester-cn.github.io/2020/course-shell/">The Shell</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="The-Shell"><a href="#The-Shell" class="headerlink" title="The Shell"></a>The Shell</h1><p>回归本源</p><p>在研究生的生活中，我通过编写bat和py文件来让机器执行重复的过程，这个shell就是类似之前bat和py的东西。在这节课程中，我们将会学习如何使用bash。bash是被广泛使用的shell，在终端内，使用bash来控制我们的计算机。</p><span id="more"></span><p>课程是有自己网页的，在这里我就不再把内容搬过来了，大家直接点击下方链接去看就可以，我主要是在这里把自己实现的课后习题展示出来。</p><p>课程的链接：<a href="https://missing-semester-cn.github.io/2020/course-shell/">The Shell</a></p><hr>]]></content>
       
       
       
