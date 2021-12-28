@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Education_2</title>
+      <link href="/2021/12/28/The%20Missing%20Semester%20of%20Your%20CS%20Education_2/"/>
+      <url>/2021/12/28/The%20Missing%20Semester%20of%20Your%20CS%20Education_2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Shell工具和脚本"><a href="#Shell工具和脚本" class="headerlink" title="Shell工具和脚本"></a>Shell工具和脚本</h1><p>在这节课中，会展示bash作为脚本语言的一些基础操作，以及集中最常用的shell工具</p><span id="more"></span><p>课程的链接：<a href="https://missing-semester-cn.github.io/2020/shell-tools/">The Shell</a></p><h2 id="Shell脚本"><a href="#Shell脚本" class="headerlink" title="Shell脚本"></a>Shell脚本</h2><p>上一节学习了如何在shell中执行命令，并使用管道将命令组合使用。这一节学习shell脚本，具体来说，本节会专注于bash脚本，因为它最流行，应用更为广泛。</p><p>要注意的一点是，shell脚本中使用空格会起到分割参数的作用，有时候可能会造成混淆，需要多加检查。</p><p>学习到“通配”之前，没看明白grep foobar “$file” &gt; /dev/null 2&gt; /dev/null这句话里面的/dev/null 2&gt; /dev/null是什么个意思</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> The Missing Semester of Your CS Education </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>The Missing Semester of Your CS Education_1_Shell</title>
       <link href="/2021/12/25/The%20Missing%20Semester%20of%20Your%20CS%20Education_1_Shell/"/>
       <url>/2021/12/25/The%20Missing%20Semester%20of%20Your%20CS%20Education_1_Shell/</url>
